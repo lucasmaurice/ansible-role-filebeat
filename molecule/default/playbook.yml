@@ -22,7 +22,7 @@
       when: ansible_distribution == 'Ubuntu'
 
   roles:
-    - role: geerlingguy.java
+    - role: lucasmaurice.java
     - role: geerlingguy.elasticsearch
     - role: geerlingguy.logstash
-    - role: geerlingguy.filebeat
+    - role: lucasmaurice.filebeat
