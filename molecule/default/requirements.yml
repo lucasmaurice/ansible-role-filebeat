@@ -1,4 +1,4 @@
 ---
 - src: lucasmaurice.java
 - src: geerlingguy.elasticsearch
-- src: lucasmaurice.logstash
+- src: geerlingguy.logstash
