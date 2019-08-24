@@ -23,6 +23,4 @@
 
   roles:
     - role: lucasmaurice.java
-    - role: geerlingguy.elasticsearch
-    - role: geerlingguy.logstash
     - role: geerlingguy.filebeat
