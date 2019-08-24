@@ -25,4 +25,4 @@
     - role: lucasmaurice.java
     - role: geerlingguy.elasticsearch
     - role: geerlingguy.logstash
-    - role: lucasmaurice.filebeat
+    - role: geerlingguy.filebeat
